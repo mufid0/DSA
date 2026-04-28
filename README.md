@@ -13,10 +13,10 @@
 A **highly structured, interview-focused** collection of Data Structures & Algorithms problems.
 Built to develop **deep problem-solving intuition**, not just solutions.
 
-✔️ Topic-wise progression (Beginner → Advanced)
-✔️ Clean, optimized, and well-documented code
-✔️ Covers real interview patterns & edge cases
-✔️ Consistency-focused learning system
+- ✔️ Topic-wise progression (Beginner → Advanced)
+- ✔️ Clean, optimized, and well-documented code
+- ✔️ Covers real interview patterns & edge cases
+- ✔️ Consistency-focused learning system
 
 ---
 
@@ -129,13 +129,6 @@ This repository uses **GitHub Actions** to:
 
 * Auto-update problem count
 * Keep README fresh daily
-
----
-
-## 🌐 Connect
-
-* LinkedIn: https://linkedin.com/in/your-profile
-* Portfolio: https://your-portfolio-link
 
 ---
 
