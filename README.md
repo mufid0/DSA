@@ -1,83 +1,24 @@
-# 🧠 Data Structures & Algorithms Journey
+# 🧠 Data Structures & Algorithms
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/dsa)
-![Stars](https://img.shields.io/github/stars/your-username/dsa?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/dsa)
-![Language](https://img.shields.io/github/languages/top/your-username/dsa)
-![License](https://img.shields.io/badge/License-MIT-green)
+A structured and comprehensive repository covering **Data Structures and Algorithms** from fundamentals to advanced topics.
+Designed for **interview preparation, problem-solving mastery, and competitive programming**.
 
 ---
 
-## 📊 Overall Progress
-![Progress](https://img.shields.io/badge/Progress-35%25-yellow)
+## 🚀 About This Repository
 
----
+This repository follows a **topic-wise progression** to build strong problem-solving skills step by step:
 
-## 📚 Topic-wise Progress
-
-### 🟢 Basics
-![Basics](https://img.shields.io/badge/Completed-10%2F10-brightgreen)
-
-### 🟢 Arrays
-![Arrays](https://img.shields.io/badge/Completed-18%2F50-yellow)
-
-### 🟢 Strings
-![Strings](https://img.shields.io/badge/Completed-12%2F40-yellow)
-
-### 🟡 Recursion & Backtracking
-![Recursion](https://img.shields.io/badge/Completed-8%2F30-orange)
-
-### 🟡 Linked List
-![LinkedList](https://img.shields.io/badge/Completed-10%2F25-yellow)
-
-### 🟡 Stack & Queue
-![StackQueue](https://img.shields.io/badge/Completed-9%2F25-yellow)
-
-### 🟡 Hashing
-![Hashing](https://img.shields.io/badge/Completed-7%2F20-orange)
-
----
-
-### 🔵 Searching & Sorting
-![SearchingSorting](https://img.shields.io/badge/Completed-6%2F20-orange)
-
-### 🔵 Patterns (Sliding Window, Two Pointer, Greedy)
-![Patterns](https://img.shields.io/badge/Completed-5%2F25-red)
-
----
-
-### 🔵 Trees
-![Trees](https://img.shields.io/badge/Completed-12%2F40-yellow)
-
-### 🔵 Heaps
-![Heaps](https://img.shields.io/badge/Completed-4%2F20-red)
-
----
-
-### 🔴 Graphs
-![Graphs](https://img.shields.io/badge/Completed-6%2F35-orange)
-
-### 🔴 Dynamic Programming
-![DP](https://img.shields.io/badge/Completed-5%2F50-red)
-
----
-
-### 🟣 Advanced (Trie, Segment Tree, etc.)
-![Advanced](https://img.shields.io/badge/Completed-2%2F30-red)
-
----
-
-## 🏆 Goals
-
-- ✅ Master core DSA concepts  
-- 🚧 Solve 300+ problems  
-- 🎯 Crack top tech interviews  
-- 💡 Focus on optimized & clean code  
+* 📌 Beginner → Advanced roadmap
+* 📌 Clean, well-documented solutions
+* 📌 Optimized approaches with complexity analysis
+* 📌 Focus on patterns used in real interviews
 
 ---
 
 ## 📂 Folder Structure
 
+```
 DSA/
 │
 ├── 01_Basics/
@@ -102,17 +43,110 @@ DSA/
 │   └── Bit_Manipulation/
 │
 └── README.md
+```
 
 ---
 
+## 📚 Topics Covered
+
+### 🟢 Fundamentals
+
+* Time & Space Complexity
+* Mathematical Basics
+
+### 🟢 Core Data Structures
+
+* Arrays
+* Strings
+* Linked List
+* Stack & Queue
+* Hashing
+
+### 🟡 Problem Solving Techniques
+
+* Recursion & Backtracking
+* Sliding Window
+* Two Pointer
+* Greedy Algorithms
+
+### 🔵 Advanced Structures
+
+* Trees (Binary Tree, BST)
+* Heaps (Priority Queue)
+
+### 🔴 Complex Topics
+
+* Graphs (BFS, DFS, Shortest Path, Union-Find)
+* Dynamic Programming
+
+### 🟣 Advanced Concepts
+
+* Tries
+* Segment Trees
+* Bit Manipulation
 
 ---
 
-## 📌 Notes
+## 📈 Progress Tracking
 
-- Each problem includes:
-  - Approach
-  - Time & Space Complexity
-  - Clean Code Implementation
+| Topic               | Progress   |
+| ------------------- | ---------- |
+| Basics              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Arrays              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Strings             | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Recursion           | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Linked List         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Stack & Queue       | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Hashing             | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Trees               | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Graphs              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Dynamic Programming | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
 ---
+
+## 🧩 Problem Format
+
+Each problem is documented with:
+
+```
+Problem Name:
+Approach:
+Time Complexity:
+Space Complexity:
+Code:
+```
+
+---
+
+## 🎯 Goals
+
+* 📌 Solve 300+ DSA problems
+* 📌 Master core patterns & techniques
+* 📌 Build strong problem-solving intuition
+* 📌 Prepare for top tech interviews
+
+---
+
+## ⚡ Tech Stack
+
+* Language: C++ / Python / Java
+* Platform: LeetCode, Codeforces, GFG
+
+---
+
+## 🌟 Contribution
+
+Feel free to fork, improve, and contribute!
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-profile
+* Portfolio: https://your-portfolio-link
+
+---
+
+## ⭐ If you find this useful
+
+Give this repo a star ⭐ to support the journey!
