@@ -1,24 +1,67 @@
-# 🧠 Data Structures & Algorithms
+# 🧠 Data Structures & Algorithms — Mastery Hub
 
-A structured and comprehensive repository covering **Data Structures and Algorithms** from fundamentals to advanced topics.
-Designed for **interview preparation, problem-solving mastery, and competitive programming**.
+![Repo Size](https://img.shields.io/github/repo-size/your-username/dsa?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/your-username/dsa?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/dsa?style=for-the-badge)
+![Language](https://img.shields.io/github/languages/top/your-username/dsa?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username\&style=for-the-badge)
 
 ---
 
 ## 🚀 About This Repository
 
-This repository follows a **topic-wise progression** to build strong problem-solving skills step by step:
+A **highly structured, interview-focused** collection of Data Structures & Algorithms problems.
+Built to develop **deep problem-solving intuition**, not just solutions.
 
-* 📌 Beginner → Advanced roadmap
-* 📌 Clean, well-documented solutions
-* 📌 Optimized approaches with complexity analysis
-* 📌 Focus on patterns used in real interviews
+✔️ Topic-wise progression (Beginner → Advanced)
+✔️ Clean, optimized, and well-documented code
+✔️ Covers real interview patterns & edge cases
+✔️ Consistency-focused learning system
 
 ---
 
-## 📂 Folder Structure
+## 📊 Live Progress Dashboard
 
-```
+### 🔥 Overall Progress
+
+![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+
+### 📈 Total Problems Solved
+
+**0+** <!-- AUTO-UPDATE -->
+
+---
+
+## 📊 LeetCode Analytics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark\&font=Baloo\&ext=contest)
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/your-username?ext=heatmap)
+
+---
+
+## 🧠 Topic-wise Breakdown
+
+| Topic                  | Focus                    | Status     |
+| ---------------------- | ------------------------ | ---------- |
+| 🟢 Basics              | Complexity, Math         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟢 Arrays              | Patterns, Prefix, Kadane | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟢 Strings             | Manipulation, Hashing    | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟡 Recursion           | Backtracking, Trees      | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟡 Linked List         | Pointers, Cycles         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟡 Stack & Queue       | Monotonic, Deque         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟡 Hashing             | Maps, Sets               | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🔵 Trees               | Traversals, BST          | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🔵 Heaps               | Priority Queue           | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🔴 Graphs              | BFS, DFS, Dijkstra       | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🔴 Dynamic Programming | Optimization             | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🟣 Advanced            | Trie, Segment Tree       | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+
+---
+
+## 📂 Repository Structure
+
+```bash
 DSA/
 │
 ├── 01_Basics/
@@ -47,106 +90,59 @@ DSA/
 
 ---
 
-## 📚 Topics Covered
+## 🧩 Problem Documentation Format
 
-### 🟢 Fundamentals
+Each solution follows a structured format:
 
-* Time & Space Complexity
-* Mathematical Basics
-
-### 🟢 Core Data Structures
-
-* Arrays
-* Strings
-* Linked List
-* Stack & Queue
-* Hashing
-
-### 🟡 Problem Solving Techniques
-
-* Recursion & Backtracking
-* Sliding Window
-* Two Pointer
-* Greedy Algorithms
-
-### 🔵 Advanced Structures
-
-* Trees (Binary Tree, BST)
-* Heaps (Priority Queue)
-
-### 🔴 Complex Topics
-
-* Graphs (BFS, DFS, Shortest Path, Union-Find)
-* Dynamic Programming
-
-### 🟣 Advanced Concepts
-
-* Tries
-* Segment Trees
-* Bit Manipulation
-
----
-
-## 📈 Progress Tracking
-
-| Topic               | Progress   |
-| ------------------- | ---------- |
-| Basics              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Arrays              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Strings             | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Recursion           | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Linked List         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Stack & Queue       | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Hashing             | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Trees               | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Graphs              | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| Dynamic Programming | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
----
-
-## 🧩 Problem Format
-
-Each problem is documented with:
-
-```
-Problem Name:
+```txt
+Problem:
 Approach:
 Time Complexity:
 Space Complexity:
+Edge Cases:
 Code:
 ```
 
 ---
 
-## 🎯 Goals
+## 🎯 Learning Strategy
 
-* 📌 Solve 300+ DSA problems
-* 📌 Master core patterns & techniques
-* 📌 Build strong problem-solving intuition
-* 📌 Prepare for top tech interviews
-
----
-
-## ⚡ Tech Stack
-
-* Language: C++ / Python / Java
-* Platform: LeetCode, Codeforces, GFG
+* Solve **20–30 problems per topic**
+* Focus on **patterns, not memorization**
+* Revise weak topics regularly
+* Track consistency over intensity
 
 ---
 
-## 🌟 Contribution
+## 🏆 Goals
 
-Feel free to fork, improve, and contribute!
+* 🚧 Solve 300+ problems
+* 🎯 Master core DSA patterns
+* 🧠 Build strong intuition
+* 💼 Crack top tech interviews
 
 ---
 
-## 🔗 Connect With Me
+## ⚙️ Automation
+
+This repository uses **GitHub Actions** to:
+
+* Auto-update problem count
+* Keep README fresh daily
+
+---
+
+## 🌐 Connect
 
 * LinkedIn: https://linkedin.com/in/your-profile
 * Portfolio: https://your-portfolio-link
 
 ---
 
-## ⭐ If you find this useful
+## ⭐ Support
 
-Give this repo a star ⭐ to support the journey!
+If this repository helps you, consider giving it a **star ⭐** — it motivates consistency.
+
+---
+
+> “Consistency beats intensity. Solve daily, improve forever.”
