@@ -32,14 +32,6 @@ Built to develop **deep problem-solving intuition**, not just solutions.
 
 ---
 
-## 📊 LeetCode Analytics
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark\&font=Baloo\&ext=contest)
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/your-username?ext=heatmap)
-
----
-
 ## 🧠 Topic-wise Breakdown
 
 | Topic                  | Focus                    | Status     |
