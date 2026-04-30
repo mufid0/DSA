@@ -20,18 +20,6 @@ Built to develop **deep problem-solving intuition**, not just solutions.
 
 ---
 
-## 📊 Live Progress Dashboard
-
-### 🔥 Overall Progress
-
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
-
-### 📈 Total Problems Solved
-
-**0+** <!-- AUTO-UPDATE -->
-
----
-
 ## 🧠 Topic-wise Breakdown
 
 | Topic                  | Focus                    | Status     |
