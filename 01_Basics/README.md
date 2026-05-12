@@ -1,4 +1,4 @@
-# 🧠 DSA Basics (Python)
+# 🧠 DSA Basics in Python
 
 This section focuses on the **core fundamentals** required to master Data Structures & Algorithms.
 
