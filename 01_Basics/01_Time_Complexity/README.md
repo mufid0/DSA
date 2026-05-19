@@ -161,5 +161,3 @@ for i in range(n):
 ## 💡 Final Thought
 
 > Write code that not only works—but scales.
-
----
