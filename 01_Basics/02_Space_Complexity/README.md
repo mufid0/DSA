@@ -158,6 +158,3 @@ def func(n):
 ## 💡 Final Thought
 
 > Efficient code is not just fast—it’s memory aware.
-
----
-
