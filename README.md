@@ -1,4 +1,4 @@
----
+
 # 🧠 Data Structures & Algorithms — Mastery Hub
 
 ![Repo Size](https://img.shields.io/github/repo-size/your-username/dsa?style=for-the-badge)
@@ -120,5 +120,3 @@ If this repository helps you, consider giving it a **star ⭐** — it motivates
 ---
 
 > “Consistency beats intensity. Solve daily, improve forever.”
-
----
