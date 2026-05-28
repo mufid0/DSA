@@ -1,5 +1,5 @@
 
-# 🧠 Data Structures & Algorithms — Mastery Hub
+# 🧠 Data Structures & Algorithms 
 
 ![Repo Size](https://img.shields.io/github/repo-size/your-username/dsa?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/your-username/dsa?style=for-the-badge)
